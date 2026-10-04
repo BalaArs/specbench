@@ -1,0 +1,6 @@
+# Publish only the website. Everything else in this folder stays local.
+/*
+!/index.html
+!/assets/
+!/.gitignore
+!/.nojekyll
